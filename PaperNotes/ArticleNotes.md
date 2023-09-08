@@ -32,6 +32,7 @@ introspection.
 Visualization
 - Results can be visualized in a Jupyter notebook using included TFMA frontend components.
 
+
 - _TensorFlow Model Analysis (TFMA) is a toolkit designed for assessing TensorFlow models. It offers the capability to evaluate models across vast data sets in a distributed fashion, employing the identical metrics set during training. Users can analyze these metrics across various data segments and display the results in Jupyter notebooks._
 
 ### Installation
